@@ -37,7 +37,7 @@ class Predictor(BasePredictor):
         self,
         myprompt: str = Input(
             description="Input prompt (TOK is the style trigger word)",
-            default="a photo of TOK, gold and black"
+            default="a photo of a gold watch, in the style of TOK"
         ),
         promptAddendum: str = Input(
             description="Extra terms to add to end of prompt",
@@ -45,7 +45,7 @@ class Predictor(BasePredictor):
         ),
         negative_prompt: str = Input(
             description="Negative Prompt",
-            default=""
+            default="deformed, blurry"
         ),
         outWidth: int = Input(
             description="width of output",
