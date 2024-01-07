@@ -10,12 +10,11 @@ Trigger word: TOK
 
 ## Lora Outputs
 
+"a photo of a beach-themed watch, in the style of TOK"
+![bas7](images/b4.png)
+
+"a photo of an American flag watch, in the style of TOK"
+![bas8](images/b0.png)
+
 "a photo of a diamond watch, in the style of TOK"
-![bas6](images/b3.png)
-
-"a photo of a gold and black watch, in the style of TOK"
-![bas7](images/b1.png)
-
-"a photo of a rainbow watch, in the style of TOK"
-![bas8](images/b2.png)
-
+![bas6](images/b1.png)
