@@ -1,6 +1,6 @@
 # sdxl-bling
 
-My cog deployment of my stable-diffusion-xl-base-1.0 Lora finetuned on Basquiat paintings 
+My cog deployment of my stable-diffusion-xl-base-1.0 Lora finetuned on diamond watches
 
 - API: https://replicate.com/georgedavila/sdxl-bling
 - Model: https://huggingface.co/GDavila/sdxl-bling
